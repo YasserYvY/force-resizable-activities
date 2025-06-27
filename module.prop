@@ -1,0 +1,7 @@
+id=force-resizable-activities
+name=Force Resizable Activities
+description=Force all apps to support split screen
+author=YasserYvY
+version=v1.0.0
+versionCode=1
+repository=https://github.com/YasserYvY/force-resizable-activities
